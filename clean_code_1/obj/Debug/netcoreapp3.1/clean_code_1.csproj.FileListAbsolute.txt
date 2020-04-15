@@ -1,0 +1,8 @@
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\bin\Debug\netcoreapp3.1\clean_code_1.deps.json
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\bin\Debug\netcoreapp3.1\clean_code_1.dll
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\bin\Debug\netcoreapp3.1\clean_code_1.pdb
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\obj\Debug\netcoreapp3.1\clean_code_1.csprojAssemblyReference.cache
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\obj\Debug\netcoreapp3.1\clean_code_1.AssemblyInfoInputs.cache
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\obj\Debug\netcoreapp3.1\clean_code_1.AssemblyInfo.cs
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\obj\Debug\netcoreapp3.1\clean_code_1.dll
+C:\Users\aaspr.DESKTOP-G6R73JT\RiderProjects\NetcompanyCleanCode\clean_code_1\obj\Debug\netcoreapp3.1\clean_code_1.pdb
